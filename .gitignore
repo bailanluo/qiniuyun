@@ -1,6 +1,11 @@
 # 总项目 Git 配置
-# 子项目保持独立的Git仓库，但不在.gitignore中忽略
-# 这样Cursor可以正确识别子项目的Git状态
+# 忽略子项目的 Git 仓库，让它们保持独立
+
+# 后端项目 Git 仓库
+/Agent/.git/
+
+# 前端项目 Git 仓库  
+/Agent_control/.git/
 
 # 系统文件
 .DS_Store
