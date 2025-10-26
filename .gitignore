@@ -1,31 +1,58 @@
-# 总项目 Git 配置
-# 忽略子项目的 Git 仓库，让它们保持独立
+# 忽略子仓库的 .git 目录
+Agent/.git/
+Agent_control/.git/
 
-# 后端项目 Git 仓库
-/Agent/.git/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# 前端项目 Git 仓库  
-/Agent_control/.git/
-
-# 系统文件
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 .DS_Store
-Thumbs.db
 
-# IDE 文件
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-
-# 临时文件
-*.tmp
-*.temp
 *~
 
 # 日志文件
+logs/
 *.log
 
-# 环境配置文件
+# 环境变量
 .env
 .env.local
-.env.*.local
+
+# 数据库
+*.db
+*.sqlite
+
+# 操作系统
+.DS_Store
+Thumbs.db
