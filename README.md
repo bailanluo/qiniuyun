@@ -64,3 +64,11 @@ qiniu/
 - **后端**: FastAPI + Python + MySQL
 - **前端**: Vue.js + TypeScript + Vite
 - **AI**: LangChain + LangGraph
+
+## Git 仓库
+
+本项目使用**三个独立的 Git 仓库**管理：
+
+- **总项目仓库**: [qiniuyun](https://github.com/bailanluo/qiniuyun) - 包含项目文档和整体说明
+- **后端仓库**: [agent](https://github.com/bailanluo/agent) - 包含 FastAPI 后端代码
+- **前端仓库**: [agent_control](https://github.com/bailanluo/agent_control) - 包含 Vue.js 前端代码
