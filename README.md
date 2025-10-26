@@ -4,7 +4,7 @@
 
 ## 视频演示
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115439980059164&bvid=BV1pzxPzYEox&cid=33412353561&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+🎥 [点击观看完整演示视频](https://www.bilibili.com/video/BV1pzxPzYEox)
 
 ## 环境要求
 
