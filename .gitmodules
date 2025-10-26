@@ -1,0 +1,6 @@
+[submodule "Agent"]
+	path = Agent
+	url = https://github.com/bailanluo/agent.git
+[submodule "Agent_control"]
+	path = Agent_control
+	url = https://github.com/bailanluo/agent_control.git
