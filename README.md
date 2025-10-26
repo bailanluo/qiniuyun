@@ -2,6 +2,10 @@
 
 这是一个基于 AI 的智能客服系统，包含后端 API 服务和前端控制界面。
 
+## 视频演示
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115439980059164&bvid=BV1pzxPzYEox&cid=33412353561&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 ## 环境要求
 
 - **Python**: 3.9+
